@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>As we haue euer from our infancie had manifold proofes of Gods great goodnes towards us in his protecting of us from many dangers of our person, ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12699</idno><idno type="EEBO-CITATION">99892755</idno>
+  <idno type="VID">187126</idno>
+  <idno type="EEBO-PROQUEST">2240923508</idno>
+  
+            <idno type="STC">STC 8336</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.10[30]</idno>
+            <idno type="PROQUEST">ocm99892755</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892755e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12699)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187126)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:1[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>As we haue euer from our infancie had manifold proofes of Gods great goodnes towards us in his protecting of us from many dangers of our person, ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>anno 1603.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from opening lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>At foot of text: Wilton the twenty fourth day of October 1603. of our reigne of England, France and Ireland the first, and of Scotland the thirty seuenth yeere.</note>
+                  <note>Forbidding factious efforts to reform the church. Cf. STC.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:187126:1"/>
+            <head>
+               <figure>
+                  <figDesc>England's royal coat of arms, 1603</figDesc>
+               </figure> ❧ By the King.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S we haue euer from our infancie had manifold proofes of Gods great goodnes towards vs in his protecting of vs from many dan<g ref="char:EOLhyphen"/>gers of our Person, very neerely threatning vs, and none more notorious then his happy conducting of vs in the late case of our succession to this Crowne, which contrary to most mens expecta<g ref="char:EOLhyphen"/>tion wee haue receiued with more quiet and concurrencie of good will of our people (otherwise perhaps of different dispositions) then euer in like accident hath bene seene: So doe we thinke that the memory of his benefits ought to be a continuall solicitation to vs to shewe our selues thankefull to his diuine Maiestie, wherein soeuer opportunitie shall be offered vs to doe him seruice, but especially in things concerning his honour and seruice, and the furtherance of the Gospel, which is the duety most beseeming Royall authoritie. Wherefore after our entry into this Kingdome, when wee had receiued information of the state thereof at the decease of the Queene our Sister of famous memory, Although we found the whole Body thereof in generall by the wisedome of her selfe and care of those who had the administration thereof vnder her, in such good state of health as did greatly commend their wisedomes, as well in the Politique part of it, as also in the Ecclesiasticall, whereof since wee haue vnderstood the forme and frame, we are perswaded that both the constitution and doctrine thereof is agree<g ref="char:EOLhyphen"/>able to Gods word, and neere to the condition of the Primitiue Church: Yet forasmuch as experience doeth shewe dayly, that the Church militant is neuer so well constituted in any forme of Policie, but that the imperfections of men who haue the exercise thereof, doe with time, though vnsensibly, bring in some corruptions: As also for that informations were daily brought vnto vs by diuers, that some things vsed in this Church were both scandalous to many seeming zealous, and gaue aduantage to the Aduersaries, Wee conceiued that no sub<g ref="char:EOLhyphen"/>iect could be so fit for vs to shew our thankefulnesse to God, as vpon serious examination of the state of this Church, to redeeme it from such scandals, as both by the one side and the other were layd vpon it. For our instruction wherein, we appointed a meeting to be had before our Selfe and our Counsell, of diuers of the Bishops and other learned men, the first day of the next moneth, by whose information and aduice we might gouerne our proceeding therein, if we found cause of amendment. But by reason of the sicknesse reigning in many places of our Kingdome, the vnseasonable time of the yeere for trauaile, and the incommoditie of the place of our abode for such an assembly, we were constrained to deferre it till after Christmas: At which Consultation we shall both more particularly vnderstand the state of the Church; and receiue thereby light to iudge whether there be indeed any such enormities as are pretended,
+<pb facs="tcp:187126:2"/>and know how to proceed to the redresse. But this our godly purpose we finde hath bene mis<g ref="char:EOLhyphen"/>construed by some mens spirits, whose heat tendeth rather to combustion then reformation, as appeareth by the courses they haue taken, Some vsing publique Inuectiues against the state Ecclesiasticall here established, some contemning their Authoritie and the Processes of their Courts, some gathering subscriptions of multitudes of vulgar persons to Supplicati<g ref="char:EOLhyphen"/>ons to be exhibited to vs to craue that Reformation, which if there be cause to make, is more in our heart then in theirs. All which courses it is apparant to all men are vnlawfull and doe sauour of tumult, sedition, and violence, and not of such a Christian modestie as beseemeth those, who for pieties sake onely desire redresse of things they thinke to be amisse, and cannot but be the occasions of dissentious partialities, and perhaps of greater inconueniences a<g ref="char:EOLhyphen"/>mong our people.</p>
+            <p>For preuenting whereof, We haue thought it necessary to make publique declaration to all our Subiects, that as we haue reason to thinke the estate of the Church here established, and the degrees and orders of Ministers gouerning the same, to be agreeable to the worde of God, and the forme of the Primitiue Church, hauing found the same blessed in the reigne of the late Queene, with great increase of the Gospel, and with a most happy and long peace in the politique State, which two things, the true seruice of God, and happinesse of the State doe commonly concurre together: So are we not ignorant, that time may haue brought in some Corruptions, which may deserue a reuiew and amendment, which if by the assembly in<g ref="char:EOLhyphen"/>tended by vs we shall finde to be so in deede, we will therein proceede according to the Lawes and Customes of this Realme by aduise of our Councell, or in our high Court of Parliament, or by Conuocation of our Clergie, as we shall finde reason to leade vs; not doubting but that in such an orderly proceeding, we shall haue the Prelates and others of our Clergie no lesse willing, and farre more able to affoord vs their duetie and seruice, then any other whose zeale goeth so fast before their discretion. Vpon which our Princely care, our pleasure is, that all our Subiects doe repose themselues, and leaue to our conscience that which to vs only apper<g ref="char:EOLhyphen"/>teineth, auoyding all vnlawfull and factious manner of proceeding, for that hereafter if any shall either by gathering the subscriptions of multitudes to Supplications, by contemptuous behauiour to any authoritie by the Lawes resting in Ecclesiasticall persons, by open inuec<g ref="char:EOLhyphen"/>tiues and vndecent speeches either in the Pulpit or otherwise, or by disobedience to the proces<g ref="char:EOLhyphen"/>ses proceeding from their Iurisdiction, giue vs cause to thinke that he hath a more vnquiet spirit then becommeth any priuate person to haue toward publike authority, We wil make it appeare by their chasticement, how farre such a maner of proceeding is displeasing to vs, and that we finde that these Reformers vnder pretended zeale affect Noueltie, and so confusion in all estates: whereas our purpose and resolution euer was, and now is to preserue the estate aswell Ecclesiasticall as Politike, in such forme as we haue found it established by the Lawes here, reforming onely the abuses which we shall apparantly finde prooued, And that also to doe by such mature aduise and deliberation, as we haue aboue mentioned. Wherefore we ad<g ref="char:EOLhyphen"/>monish all men hereby to take warning, as they will answere the contrary at their perill.</p>
+            <closer>
+               <dateline>Giuen vnder our hand at <hi>Wilton</hi>
+                  <date> the twenty fourth day of October <hi>1603.</hi> of our Reigne of England, France and Ireland the first, and of Scotland the thirty and seuenth yeere.</date>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❧ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Maiestie. Anno 1603.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
